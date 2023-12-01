@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hilal Güzel</h1>
 <h3 align="center">A passionate Game Developer</h3>
+<p align = center >
+✨ I am a 4th - year computer engineering student, my interest in technology and software started in high school and I decided to study computer engineering in undergraduate. 
+ I first started my journey with mobile application development and then continued with data science. 
+✨ Now As a 4th-year computer engineering student, I am dedicated to continuously learning and growing, driven by my interest in the gaming world. The experiences I've gained in the game development process are invaluable to me, and my passion in this field continually motivates me to advance. 
+✨ Continuing to acquire knowledge about gaming technologies and innovations and enhancing my skills remains a significant part of my career aspirations. I hope to play an influential role in the gaming industry in the future and am working towards maximizing my potential in this field.
+✨ Another area I am interested in is AR/VR/XR and AI, and I aim to integrate these technologies into the world of game development.
+</p>
 
 - 🌱 I’m currently learning **Javascript, Three.Js**
 
