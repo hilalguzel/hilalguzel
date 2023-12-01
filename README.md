@@ -28,7 +28,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hilalguzel&show_icons=true&locale=en&theme=tokyonight" alt="hilalguzel" /></p>
 
-picture>
+<picture>
 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hilalguzel/hilalguzel/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hilalguzel/hilalguzel/output/github-contribution-grid-snake.svg">
