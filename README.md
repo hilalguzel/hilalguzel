@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working on **Unity**
 
-- 📝 I regularly write articles on [https://medium.com/@hilalguzel](https://medium.com/@hilalguzel)
+- 📝 I write articles on [https://medium.com/@hilalguzel](https://medium.com/@hilalguzel)
 
 - 💬 Ask me about **Python, Unity**
 
@@ -14,7 +14,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/guzelhilal0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="guzelhilal0" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/hilal-guzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hilal-guzel" height="30" width="40" /></a>
 <a href="https://medium.com/@hilalguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hilalguzel" height="30" width="40" /></a>
 <a href="https://discord.gg/hilalguzel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hilalguzel" height="30" width="40" /></a>
