@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
 <p align = center><ul><li>✍🏻 I am a 4th - year computer engineering student, my interest in technology and software started in high school and I decided to study computer engineering in undergraduate</li><li> 🚀 I first started my journey with mobile application development and then continued with data science. 
-</li><li>👩🏻‍💻 Now As a 4th-year computer engineering student, I am dedicated to continuously learning and growing, driven by my interest in the gaming world.</li></ul></p>
+</li><li>👩🏻‍💻 Now As a 4th-year computer engineering student, I am dedicated to continuously learning and growing, driven by my interest in the AI world.</li></ul></p>
 
 - 🌱 I’m currently working on **Unity** , **Python** 
 
