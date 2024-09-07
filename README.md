@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🤸🏻‍♀️, I'm Hilal Güzel</h1>
 <h3 align="center">A passionate Developer</h3>
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif">
-<p align = center><ul><li>✍🏻I recently graduated with a degree in computer engineering. My interest in technology and software began in high school, which led me to pursue computer engineering in my undergraduate studies.</li><li> 🚀 I first started my journey with mobile application development and then continued with data science. </li><li> 🙌🏻 Throughout my academic journey, I gained valuable experience as a developer in the gaming world. However, my primary focus has now shifted to deep learning and computer vision, where I am passionate about building a professional career
+<p align = center><ul><li>✍🏻I recently graduated with a degree in computer engineering. My interest in technology and software began in high school, which led me to pursue computer engineering in my undergraduate studies.</li><li> 🚀 I first started my journey with mobile application development and then continued with data science. </li><li> 🙌🏻 Throughout my academic journey, I gained valuable experience as a developer in the gaming world. However, my primary focus has now shifted to DL, ML and CS, where I am passionate about building a professional career
 </li><li>👩🏻‍💻 Now I am dedicated to advancing my knowledge in these fields and look forward to the opportunities that lie ahead..</li></ul></p>
 
 - 🌱 I’m currently working on **Unity** , **Python** 
