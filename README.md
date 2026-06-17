@@ -124,10 +124,6 @@
   <img src="https://streak-stats.demolab.com?user=hilalguzel&hide_border=true&theme=tokyonight" alt="github streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hilalguzel&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
-</p>
-
 <!-- ===== SNAKE ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hilalguzel/hilalguzel/output/github-contribution-grid-snake-dark.svg">
